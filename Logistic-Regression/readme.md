@@ -1,4 +1,4 @@
-# Air Quality Prediction Using KNN Classifier
+# Air Quality Prediction Using Logistic Regression
 
 ## Overview
 This repository contains a project where a **Logistic Regression** was implemented to predict air quality using a dataset. The performance of the model was assessed using metrics such as **Accuracy Score** and the **Confusion Matrix**.
