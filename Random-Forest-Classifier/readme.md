@@ -1,5 +1,4 @@
-# Air Quality Prediction Using KNN Classifier
-
+# Air Quality Prediction Using Random Forest Classifier
 ## Overview
 This repository contains a project where a **Random Forest Classifier** was implemented to predict air quality using a dataset. The performance of the model was assessed using metrics such as **Accuracy Score** and the **Confusion Matrix**.
 
