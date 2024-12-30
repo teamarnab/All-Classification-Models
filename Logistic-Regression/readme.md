@@ -54,7 +54,7 @@ To run the project, make sure you have the following Python libraries installed:
 ## Future Work
 - Experiment with other classifiers like **K Neighbors Classifier**, **Random Forest**, and **Support Vector Classifier (SVC)**.
 - Improve feature engineering and dataset preprocessing.
-- Perform hyperparameter tuning to further optimize the KNN model.
+- Perform hyperparameter tuning to further optimize the model.
 
 ## Acknowledgments
 - dataset source (kaggle): https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment?resource=download
